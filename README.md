@@ -28,7 +28,7 @@ We provide the most effective **iGaming solutions** for **Web3 casino** operator
 
 | Feature | Official Aggregators | Mint Scripts Integration |
 | :--- | :---: | :---: |
-| **Revenue Share (GGR)** | 15-20% | **5% (Only if profitable)** |
+| **Revenue Share (GGR)** | 15-20% | **8% (Only if profitable)** |
 | **Legal Documentation** | Required (Strict) | **None Required** |
 | **Game Library** | Restricted | **Full Access (Pragmatic & Hacksaw)** |
 | **System Load** | High | **Low (Optimized Performance)** |
