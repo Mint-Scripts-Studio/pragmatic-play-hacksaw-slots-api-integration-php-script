@@ -18,7 +18,7 @@ This repository provides a professional **Pragmatic Play API** and **Hacksaw Gam
     <img src="https://img.shields.io/badge/API_DOCUMENTATION-333333?style=for-the-badge&logo=gitbook&logoColor=white" alt="View API Documentation">
   </a>
 </p>
-<img src="https://mintscripts.net/templates/Default/images/animation.gif" alt="Pragmatic Play and Hacksaw Gaming slots integration animation" width="100%">
+<img src="https://raw.githubusercontent.com/Mint-Scripts-Studio/pragmatic-play-hacksaw-slots-api-integration-php-script/refs/heads/main/Pragmatic-Play-Hacksaw-Slots-API-Integration%20(1).gif" alt="Pragmatic Play and Hacksaw Gaming slots integration animation" width="100%">
 
 
 
