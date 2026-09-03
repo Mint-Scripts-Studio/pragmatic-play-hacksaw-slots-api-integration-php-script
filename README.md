@@ -47,7 +47,7 @@ We provide the most effective **iGaming solutions** for **Web3 casino** operator
 
 <img src="https://mintscripts.net/uploads/posts/2026-07/sweetbananza.jpg" alt="Sweet Bonanza slot game integration for gambling websites" width="100%">
 
-*   **Revenue-First Model:** Only 5% commission on your actual revenue. No hidden fees, no monthly GGR cut if you have no profit.
+*   **Revenue-First Model:** Only 8% commission on your actual revenue. No hidden fees, no monthly GGR cut if you have no profit.
 
 
 
