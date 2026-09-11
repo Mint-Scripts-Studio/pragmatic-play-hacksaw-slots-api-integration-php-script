@@ -49,6 +49,16 @@ We provide the most effective **iGaming solutions** for **Web3 casino** operator
 
 *   **Revenue-First Model:** Only 8% commission on your actual revenue. No hidden fees, no monthly GGR cut if you have no profit.
 
+## 🎰 Full List of Supported Game Providers
+
+Our API integration framework gives you instant, seamless access to an extensive library of top-tier game studios. Expand your casino lobby with world-class slots, live dealers, and innovative mechanics:
+
+<p align="center">
+  <br>
+  <code>Pragmatic Play</code> • <code>Pragmatic Play Live Dealers</code> • <code>Hacksaw Gaming</code> • <code>RubyPlay</code> • <code>ELK Studio</code> • <code>PG Soft</code> • <code>Push Gaming</code> • <code>Paperclip Gaming</code> • <code>BullShark Games</code> • <code>BackSeat Gaming</code> • <code>Uppercut Gaming</code> • <code>Colorful Play</code> • <code>Sidequest Studios</code> • <code>Zeroedge Studios</code> • <code>Shift Gaming</code> • <code>1 Spin Interactive</code> • <code>1 Ace Studios</code> • <code>RainFall Gaming</code> • <code>Rabbit Gaming</code> • <code>Pocket Play</code> • <code>NowNow Gaming</code> • <code>Slotrix</code> • <code>Trusty Gaming</code> • <code>Valkyrie</code> • <code>Kitsune Games</code> • <code>Degenlab</code> • <code>Parowdee</code> • <code>Giga</code> • <code>Pineapple Play</code> • <code>JinX Gaming</code> • <code>AceRoll</code>
+  <br><br>
+</p>
+
 
 
 ## 🛠 Integration & Server Requirements
